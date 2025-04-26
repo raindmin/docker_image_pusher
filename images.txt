@@ -8,5 +8,4 @@
 #centos
 #kube-apiserver:v1.31.1
 docker.io/python:3.10-slim
-docker.io/python:3.12-slim
-docker.io/python:3.8-slim
+calciumion/new-api
